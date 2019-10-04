@@ -1,0 +1,86 @@
+body{
+    background-color: #DCDCDC;
+    }
+    p{
+    color: #484848;
+    }
+    .bg-orange{
+    background-color: orange;
+    }
+    .nav-link{
+    color: white!important;
+    }
+    a.navbar-brand{
+    color: white!important;
+    }
+    #navbarNav{
+    float: right;
+    }
+    .jumbotron{
+    background-image: url("https://images.pexels.com/photos/129208/pexels-photo-129208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    display: flex;
+    }
+    .jumbotron p{
+    color: white;
+    font-family: Montserrat;
+    }
+    .jumbotron1{
+    align-self: flex-end;
+    }
+    #welcome{
+    color: orange;
+    }
+    .btn{
+    background-color: orange;
+    border: none;
+    }
+    .about{
+    text-align: center;
+    color: orange;
+    font-size: 48px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    }
+    .slikalijeva{
+    border-right: 3px solid #0e838c;
+    }
+    .ime{
+    color:#0e838c;
+    font-size: 36px;
+    }
+    .portofolio {
+    margin-bottom: 30px;
+    }
+    .post{
+    background-color: white;
+    padding: 10px;
+    }
+    .postNaslov{
+    color: orange;
+    }
+    .read-more{
+    background-color: #f7f7f7;
+    padding: 10px;
+    }
+    .read-moreNaslov{
+    color: #1aa8f4;
+    font-weight: 400;
+    }
+    
+    .team{
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    }
+    .titula{
+    margin-top: -20px;
+    }
+    .contact{
+    height: 50px;
+    }
+    .donjeDugme{
+    margin-top: 20px;
+    }
